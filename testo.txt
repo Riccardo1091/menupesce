@@ -2,6 +2,11 @@ Ristorante Developpete
 
 Menù Pesce
 
+# Antipasti
+1 Pepata Di Cozzeo
+2 Sarde A Beccafico
+3 Cocktail Di Gamberi
+
 # Bevande
 1 Liquido Rosso
 2 Liquido Amaranto
