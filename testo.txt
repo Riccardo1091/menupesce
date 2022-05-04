@@ -13,7 +13,7 @@ Menù Pesce
 3 Pasta con tonno
 4 Tonno con pasta
 
-#Secondi piatti
+# Secondi piatti
 1 Branzino al cartoccio
 2 Paolotto in crosta di sale
 3 Triglia su crema di patate
@@ -23,6 +23,13 @@ Menù Pesce
 2 Liquido Amaranto
 3 Liquido ignoto
 
-#Dessert
-1 gelato oreo
-2cannolo scomposto
+# Dessert
+1 Gelato oreo
+2 Cannolo scomposto
+ 
+# Contorni
+1 Gateau di patate
+2 Patate al forno
+3 Cavolfiori gratinati
+4 Carciofi alla romana
+
