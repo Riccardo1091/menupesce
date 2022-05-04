@@ -11,6 +11,7 @@ Menù Pesce
 1 Pasta col pesce
 2 Pasta con più pesce
 3 Pasta con tonno
+4 Tonno con pasta
 
 # Bevande
 1 Liquido Rosso
