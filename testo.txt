@@ -13,6 +13,11 @@ Menù Pesce
 3 Pasta con tonno
 4 Tonno con pasta
 
+#Secondi piatti
+1 Branzino al cartoccio
+2 Paolotto in crosta di sale
+3 Triglia su crema di patate
+
 # Bevande
 1 Liquido Rosso
 2 Liquido Amaranto
