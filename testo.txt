@@ -7,6 +7,11 @@ Menù Pesce
 2 Sarde A Beccafico
 3 Cocktail Di Gamberi
 
+# Primi piatti
+1 Pasta col pesce
+2 Pasta con più pesce
+3 Pasta con tonno
+
 # Bevande
 1 Liquido Rosso
 2 Liquido Amaranto
